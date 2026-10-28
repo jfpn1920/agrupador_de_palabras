@@ -5,6 +5,9 @@ idiomas = []
 cantidades_letras = []
 fechas = []
 descripciones = []
+#------------------------------------------#
+#--|menu_principal_agrupador_de_palabras|--#
+#------------------------------------------#
 while True:
     print("menu principal agrupador de palabras")
     print("1) crear palabra")
